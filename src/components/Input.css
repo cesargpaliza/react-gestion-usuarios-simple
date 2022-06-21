@@ -1,0 +1,23 @@
+.field {
+    margin-bottom: 20px;    
+}
+
+.field label {
+    display: block;
+    margin: 0 0 5px 0;
+    color:#455A64;
+    font-weight: 700;
+    font-size: 20;
+}
+
+.field input {
+    background-color: #fff;
+    outline: 0;
+    font-size: 20px;
+    padding: 10px 15px;
+    border: 1px solid rgb(69, 90, 100, 0.25);
+    color: #455A64;
+    border-radius: 5px;
+    width: 100%;
+    box-sizing: border-box;
+}
